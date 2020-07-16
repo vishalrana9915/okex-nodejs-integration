@@ -1,0 +1,15 @@
+{
+  "name": "okex-integration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "vishal rana",
+  "license": "ISC",
+  "dependencies": {
+    "@okfe/okex-node": "0.0.52",
+    "dotenv": "^8.2.0"
+  }
+}
